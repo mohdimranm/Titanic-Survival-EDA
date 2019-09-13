@@ -16,15 +16,15 @@ pclass: A proxy for socio-economic status (SES) <br/>
 2nd = Middle <br/>
 3rd = Lower <br/>
 
-age: Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5
+age: Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5<br/>
 
-sibsp: The dataset defines family relations in this way...
-Sibling = brother, sister, stepbrother, stepsister
-Spouse = husband, wife (mistresses and fiancés were ignored)
+sibsp: The dataset defines family relations in this way...<br/>
+Sibling = brother, sister, stepbrother, stepsister<br/>
+Spouse = husband, wife (mistresses and fiancés were ignored)<br/>
 
-parch: The dataset defines family relations in this way...
-Parent = mother, father
-Child = daughter, son, stepdaughter, stepson
-Some children travelled only with a nanny, therefore parch=0 for them.
+parch: The dataset defines family relations in this way...<br/>
+Parent = mother, father<br/>
+Child = daughter, son, stepdaughter, stepson<br/>
+Some children travelled only with a nanny, therefore parch=0 for them.<br/>
 
 **I performed data cleaning on the dataset and did exploratory data analysis.Further used various classifier to classify which all people survived or not.
