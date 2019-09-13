@@ -26,3 +26,5 @@ parch: The dataset defines family relations in this way...
 Parent = mother, father
 Child = daughter, son, stepdaughter, stepson
 Some children travelled only with a nanny, therefore parch=0 for them.
+
+I performed data cleaning on the dataset and did exploratory data analysis.Further used various classifier to classify which all people survived or not.
