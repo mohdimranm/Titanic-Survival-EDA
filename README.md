@@ -27,4 +27,4 @@ Parent = mother, father<br/>
 Child = daughter, son, stepdaughter, stepson<br/>
 Some children travelled only with a nanny, therefore parch=0 for them.<br/>
 
-**I performed data cleaning on the dataset and did exploratory data analysis.Further used various classifier to classify which all people survived or not.
+**I performed data cleaning on the dataset and did exploratory data analysis.Further used various classifier to classify which all people survived or not.**
